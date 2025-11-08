@@ -1039,7 +1039,7 @@
 @@||cigarettessalecoupons.com^$dnsrewrite,client=antizapret
 @@||cinema-24.net^$dnsrewrite,client=antizapret
 @@||city-driving.ru^$dnsrewrite,client=antizapret
-@@||*.cloudfront.net^$dnsrewrite,client=antizapret
+@@||cloudfront.net^$dnsrewrite,client=antizapret
 @@||cmwls.click^$dnsrewrite,client=antizapret
 @@||cocktailbar24.online^$dnsrewrite,client=antizapret
 @@||coldfilm7.cam^$dnsrewrite,client=antizapret
@@ -1998,6 +1998,7 @@
 @@||sashatanya-lordfilm.online^$dnsrewrite,client=antizapret
 @@||school-gu.ru^$dnsrewrite,client=antizapret
 @@||school-reg.ru^$dnsrewrite,client=antizapret
+@@||sndcdn.com^$dnsrewrite,client=antizapret
 @@||s-dosug.click^$dnsrewrite,client=antizapret
 @@||seasonvar.biz^$dnsrewrite,client=antizapret
 @@||seks-rach.com^$dnsrewrite,client=antizapret

@@ -29,3 +29,5 @@ byteoversea.com
 ibytedtos.com
 p16-tiktokcdn-com.akamaized.net
 v16-tiktokcdn-com.akamaized.net
+sndcdn.com
+soundcloud.com

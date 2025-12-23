@@ -9,198 +9,23 @@ rutor.info
 rutor.is
 controlplane.tailscale.com
 d.rutor.info
-# ChatGPT, OpenAI
-chatgpt.com
-ab.chatgpt.com
-auth.openai.com
-auth0.openai.com
-platform.openai.com
-cdn.oaistatic.com
-files.oaiusercontent.com
-cdn.auth0.com
-tcr9i.chat.openai.com
-webrtc.chatgpt.com
-android.chat.openai.com
-api.openai.com
-operator.chatgpt.com
-sora.chatgpt.com
-sora.com
-videos.openai.com
-ios.chat.openai.com
-# Сервисы Google
-gemini.google.com
-aistudio.google.com
-generativelanguage.googleapis.com
-aitestkitchen.withgoogle.com
-aisandbox-pa.googleapis.com
-webchannel-alkalimakersuite-pa.clients6.google.com
-alkalimakersuite-pa.clients6.google.com
-assistant-s3-pa.googleapis.com
-proactivebackend-pa.googleapis.com
-robinfrontend-pa.googleapis.com
-o.pki.goog
-labs.google
-notebooklm.google
-notebooklm.google.com
-jules.google.com
-stitch.withgoogle.com
-# Microsoft Copilot, Microsoft Rewards, Xbox, Xbox Cloud Gaming:
-copilot.microsoft.com
-sydney.bing.com
-edgeservices.bing.com
-rewards.bing.com
-xsts.auth.xboxlive.com
-xgpuwebf2p.gssv-play-prod.xboxlive.com
-xgpuweb.gssv-play-prod.xboxlive.com
-# Spotify
-api.spotify.com
-xpui.app.spotify.com
-appresolve.spotify.com
-login5.spotify.com
-login.app.spotify.com
-encore.scdn.co
-ap-gew1.spotify.com
-gew1-spclient.spotify.com
-spclient.wg.spotify.com
-api-partner.spotify.com
-aet.spotify.com
-www.spotify.com
-accounts.spotify.com
-open.spotify.com
-# GitHub Copilot
-api.github.com
-api.individual.githubcopilot.com
-proxy.individual.githubcopilot.com
-# JetBrains
-datalore.jetbrains.com
-plugins.jetbrains.com
-download.jetbrains.com
-api.jetbrains.ai
-account.jetbrains.com
-# ElevenLabs
-elevenlabs.io
-api.us.elevenlabs.io
-elevenreader.io
-api.elevenlabs.io
-help.elevenlabs.io
-# Grok
-grok.com
-accounts.x.ai
-assets.grok.com
-# Tidal
-api.tidal.com
-listen.tidal.com
-login.tidal.com
-auth.tidal.com
-link.tidal.com
-dd.tidal.com
-resources.tidal.com
-images.tidal.com
-fsu.fa.tidal.com
-geolocation.onetrust.com
-api.squareup.com
-api-global.squareup.com
-# Supercell
-cdn.id.supercell.com
-security.id.supercell.com
-accounts.supercell.com
-game-assets.clashroyaleapp.com
-game-assets.clashofclans.com
-clashofclans.inbox.supercell.com
-game-assets.brawlstarsgame.com
-store.supercell.com
-game.clashroyaleapp.com
-gamea.clashofclans.com
-game.brawlstarsgame.com
-game.squadbustersgame.com
-game.mocogame.com
-# DeepL
-deepl.com
-www.deepl.com
-www2.deepl.com
-login-wall.deepl.com
-w.deepl.com
-s.deepl.com
-dict.deepl.com
-ita-free.www.deepl.com
-write-free.www.deepl.com
-experimentation.deepl.com
-experimentation-grpc.deepl.com
-ita-free.app.deepl.com
-shield.deepl.com
-ott.deepl.com
-api-free.deepl.com
-backend.deepl.com
-clearance.deepl.com
-errortracking.deepl.com
-auth.deepl.com
-oneshot-free.www.deepl.com
-# Deezer
-deezer.com
-www.deezer.com
-dzcdn.net
-payment.deezer.com
-# Weather.com
-weather.com
-upsx.weather.com
-# Fitbit
-api.fitbit.com
-fitbit-pa.googleapis.com
-fitbitvestibuleshim-pa.googleapis.com
-fitbit.google.com
-# Claude
-claude.ai
-console.anthropic.com
-auth.anthropic.com
-api.anthropic.com
-# Trae.ai
-trae-api-sg.mchost.guru
-api.trae.ai
-api-sg-central.trae.ai
-api16-normal-alisg.mchost.guru
-# Linear.app
-linear.app
-client-api.linear.app
-static.linear.app
-constellation.linear.app
-uploads.linear.app
-public.linear.app
-s.linear.app
-# Windsurf
-windsurf.com
-codeium.com
-server.codeium.com
-web-backend.codeium.com
-unleash.codeium.com
-inference.codeium.com
-codeiumdata.com
-windsurf-stable.codeium.com
-windsurf-telemetry.codeium.com
-marketplace.windsurf.com
-# Proton
-proton.me
-account.proton.me
-mail.proton.me
-account-api.proton.me
-# Twitch
-usher.ttvnw.net
-gql.twitch.tv
-# Другое
-www.notion.so
-www.canva.com
-www.intel.com
-www.dell.com
-www.tiktok.com
-web.archive.org
-developer.nvidia.com
-builds.parsec.app
-tria.ge
-api.imgur.com
-www.dyson.com
-www.dyson.fr
-api.manus.im
-profile.broadcom.com
-eu.posthog.com
-www.qwant.com
-guidedhacking.com
-framer.com
+#--------------- TikTok ---------------
+ttlivecdn.com
+tiktokcdn-in.com
+tiktokglobalshop.com
+tik-tokapi.com
+tiktokd.net
+tiktokd.org
+ttoversea.net
+ttoverseaus.net
+muscdn.com
+musemuse.cn
+musical.ly
+atomile.com
+worldfcdn.com
+worldfcdn2.com
+isnssdk.com
+byteoversea.com
+ibytedtos.com
+p16-tiktokcdn-com.akamaized.net
+v16-tiktokcdn-com.akamaized.net

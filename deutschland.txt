@@ -10,12 +10,21 @@ rutor.is
 controlplane.tailscale.com
 d.rutor.info
 #--------------- TikTok ---------------
+tiktok.com
+ttwstatic.com
+tiktokv.com
+tiktokv.us
 ttlivecdn.com
+tiktokcdn.com
+tiktokcdn-us.com
+tiktokcdn-eu.com
 tiktokcdn-in.com
 tiktokglobalshop.com
 tik-tokapi.com
 tiktokd.net
 tiktokd.org
+tiktokw.us
+tiktokw.eu
 ttoversea.net
 ttoverseaus.net
 muscdn.com
@@ -31,3 +40,5 @@ p16-tiktokcdn-com.akamaized.net
 v16-tiktokcdn-com.akamaized.net
 sndcdn.com
 soundcloud.com
+soundcloud.cloud
+openh264.org

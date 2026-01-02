@@ -256,6 +256,11 @@ swc-stg.autodesk.com
 personalize.ml.dhx.autodesk.com
 signin.autodesk.com
 damassets.autodesk.net
+help.autodesk.com
+ase.autodesk.com
+api.digital-help-prd.autodesk.com
+pages.autodesk.com
+proc.autodesk.com
 # Pump.fun
 pump.fun
 frontend-api-v3.pump.fun

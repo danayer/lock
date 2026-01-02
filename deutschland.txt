@@ -250,6 +250,11 @@ prd-cfp.autodesk.com
 static-dc.autodesk.net
 swc.autodesk.com
 js-cdn.dynatrace.com
+fsrelay.wape.autodesk.com
+universal-search.autodesk.com
+swc-stg.autodesk.com
+personalize.ml.dhx.autodesk.com
+signin.autodesk.com
 # Pump.fun
 pump.fun
 frontend-api-v3.pump.fun

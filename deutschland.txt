@@ -247,6 +247,9 @@ idp.auth.autodesk.com
 tms.wape.autodesk.com
 ase-cdn.autodesk.com
 prd-cfp.autodesk.com
+static-dc.autodesk.net
+swc.autodesk.com
+js-cdn.dynatrace.com
 # Pump.fun
 pump.fun
 frontend-api-v3.pump.fun

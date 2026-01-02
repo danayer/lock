@@ -255,6 +255,7 @@ universal-search.autodesk.com
 swc-stg.autodesk.com
 personalize.ml.dhx.autodesk.com
 signin.autodesk.com
+damassets.autodesk.net
 # Pump.fun
 pump.fun
 frontend-api-v3.pump.fun

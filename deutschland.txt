@@ -242,27 +242,6 @@ framer.com
 # Autodesk
 accounts.autodesk.com
 www.autodesk.com
-developer.api.autodesk.com
-idp.auth.autodesk.com
-tms.wape.autodesk.com
-ase-cdn.autodesk.com
-prd-cfp.autodesk.com
-static-dc.autodesk.net
-swc.autodesk.com
-js-cdn.dynatrace.com
-fsrelay.wape.autodesk.com
-universal-search.autodesk.com
-swc-stg.autodesk.com
-personalize.ml.dhx.autodesk.com
-signin.autodesk.com
-damassets.autodesk.net
-help.autodesk.com
-ase.autodesk.com
-api.digital-help-prd.autodesk.com
-pages.autodesk.com
-proc.autodesk.com
-api.coo-user-profile.autodesk.com
-cfp-mfe-prd.autodesk.com
 # Pump.fun
 pump.fun
 frontend-api-v3.pump.fun
@@ -280,3 +259,5 @@ profile.broadcom.com
 # ReCaptcha
 www.recaptcha.net
 www.google.com
+# Linux
+mesamatrix.net

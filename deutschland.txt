@@ -104,6 +104,7 @@ accounts.scdn.co
 gew1-dealer.spotify.com
 open-exp.spotifycdn.com
 www-growth.scdn.co
+tospotify.com
 # GitHub Copilot
 api.github.com
 api.individual.githubcopilot.com
@@ -256,3 +257,5 @@ www.elgato.com
 api.imgur.com
 # Broadcom
 profile.broadcom.com
+# ReCaptcha
+recaptcha.net

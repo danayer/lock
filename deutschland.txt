@@ -256,3 +256,5 @@ www.elgato.com
 api.imgur.com
 # Broadcom
 profile.broadcom.com
+# ReCaptcha
+www.recaptcha.net

@@ -104,6 +104,7 @@ accounts.scdn.co
 gew1-dealer.spotify.com
 open-exp.spotifycdn.com
 www-growth.scdn.co
+challenge.spotify.com
 # GitHub Copilot
 api.github.com
 api.individual.githubcopilot.com

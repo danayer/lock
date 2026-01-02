@@ -91,6 +91,7 @@ xgpuwebf2p.gssv-play-prod.xboxlive.com
 xgpuweb.gssv-play-prod.xboxlive.com
 # Spotify
 api.spotify.com
+spotify.com
 login5.spotify.com
 encore.scdn.co
 gew1-spclient.spotify.com
@@ -104,7 +105,9 @@ accounts.scdn.co
 gew1-dealer.spotify.com
 open-exp.spotifycdn.com
 www-growth.scdn.co
+scdn.co
 challenge.spotify.com
+spotifycdn.com
 # GitHub Copilot
 api.github.com
 api.individual.githubcopilot.com

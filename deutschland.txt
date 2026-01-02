@@ -242,6 +242,9 @@ framer.com
 # Autodesk
 accounts.autodesk.com
 www.autodesk.com
+developer.api.autodesk.com
+idp.auth.autodesk.com
+tms.wape.autodesk.com
 # Pump.fun
 pump.fun
 frontend-api-v3.pump.fun

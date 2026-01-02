@@ -214,6 +214,7 @@ gql.twitch.tv
 # Manus
 manus.im
 api.manus.im
+manuscdn.com
 # Notion
 www.notion.so
 calendar.notion.so

@@ -244,6 +244,7 @@ api.qwant.com
 fdn.qwant.com
 s1.qwant.com
 s2.qwant.com
+f.qwant.com
 # Framer
 framer.com
 # Autodesk

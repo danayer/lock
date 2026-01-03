@@ -226,6 +226,7 @@ www.intel.com
 intelcorp.scene7.com
 # Dell
 www.dell.com
+i.dell.com
 # Archive.org
 web.archive.org
 # NVIDIA
@@ -236,8 +237,7 @@ builds.parsec.app
 tria.ge
 # Qwant
 www.qwant.com
-# guidedhacking.com
-guidedhacking.com
+dd.qwant.com
 # Framer
 framer.com
 # Autodesk

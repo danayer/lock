@@ -185,6 +185,7 @@ claude.ai
 console.anthropic.com
 api.anthropic.com
 # Trae.ai
+traecdn.ai
 trae-api-sg.mchost.guru
 api.trae.ai
 api-sg-central.trae.ai
@@ -222,6 +223,7 @@ content-management-files.canva.com
 static.canva.com
 # Intel
 www.intel.com
+intelcorp.scene7.com
 # Dell
 www.dell.com
 # Archive.org

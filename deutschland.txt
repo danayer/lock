@@ -237,9 +237,11 @@ builds.parsec.app
 tria.ge
 # Qwant
 www.qwant.com
+k.qwant.com
 dd.qwant.com
 www.qwantjunior.com
 api.qwant.com
+fdn.qwant.com
 # Framer
 framer.com
 # Autodesk

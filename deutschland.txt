@@ -238,6 +238,8 @@ tria.ge
 # Qwant
 www.qwant.com
 dd.qwant.com
+www.qwantjunior.com
+api.qwant.com
 # Framer
 framer.com
 # Autodesk

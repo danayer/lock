@@ -270,4 +270,3 @@ mesamatrix.net
 photonengine.com
 photonengine.io
 gaming-sdk.com
-discovery.steamserver.net

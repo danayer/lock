@@ -268,3 +268,5 @@ profile.broadcom.com
 mesamatrix.net
 # Games
 photonengine.com
+photonengine.io
+gaming-sdk.com

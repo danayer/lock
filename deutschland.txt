@@ -266,3 +266,5 @@ api.imgur.com
 profile.broadcom.com
 # Linux
 mesamatrix.net
+# Games
+photonengine.com

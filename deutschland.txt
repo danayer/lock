@@ -270,3 +270,9 @@ mesamatrix.net
 photonengine.com
 photonengine.io
 gaming-sdk.com
+# Discord
+discord.com
+discord.gg
+discordapp.com
+discordapp.net
+discord.media

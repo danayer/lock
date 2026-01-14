@@ -270,6 +270,7 @@ mesamatrix.net
 photonengine.com
 photonengine.io
 gaming-sdk.com
+ryuu.lol
 # Discord
 discord.com
 discord.gg

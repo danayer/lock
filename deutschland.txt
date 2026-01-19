@@ -278,3 +278,5 @@ discord.gg
 discordapp.com
 discordapp.net
 discord.media
+# anime
+animetop.info

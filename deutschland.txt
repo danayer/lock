@@ -266,6 +266,7 @@ api.imgur.com
 profile.broadcom.com
 # Linux
 mesamatrix.net
+cachyos.org
 # Games
 photonengine.com
 photonengine.io

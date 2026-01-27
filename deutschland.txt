@@ -3,9 +3,6 @@ soundcloud.com
 soundcloud.cloud
 mesamatrix.net
 cachyos.org
-photonengine.com
-photonengine.io
-gaming-sdk.com
 ryuu.lol
 morrenus.xyz
 erotorrent.ru

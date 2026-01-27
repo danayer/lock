@@ -1,0 +1,13 @@
+@@||sndcdn.com^$dnsrewrite,client=az-world
+@@||soundcloud.com^$dnsrewrite,client=az-world
+@@||soundcloud.cloud^$dnsrewrite,client=az-world
+@@||mesamatrix.net^$dnsrewrite,client=az-world
+@@||cachyos.org^$dnsrewrite,client=az-world
+@@||ryuu.lol^$dnsrewrite,client=az-world
+@@||morrenus.xyz^$dnsrewrite,client=az-world
+@@||erotorrent.ru^$dnsrewrite,client=az-world
+@@||discord.com^$dnsrewrite,client=az-world
+@@||discord.gg^$dnsrewrite,client=az-world
+@@||discordapp.com^$dnsrewrite,client=az-world
+@@||discordapp.net^$dnsrewrite,client=az-world
+@@||discord.media^$dnsrewrite,client=az-world

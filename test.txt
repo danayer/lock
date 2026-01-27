@@ -11,3 +11,5 @@
 @@||discordapp.com^$dnsrewrite,client=az-world
 @@||discordapp.net^$dnsrewrite,client=az-world
 @@||discord.media^$dnsrewrite,client=az-world
+@@||pop-os.org^$dnsrewrite,client=az-world
+@@||system76.com^$dnsrewrite,client=az-world

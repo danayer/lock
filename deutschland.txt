@@ -1,18 +1,14 @@
-# SoundCloud
 sndcdn.com
 soundcloud.com
 soundcloud.cloud
-# Linux
 mesamatrix.net
 cachyos.org
-# Games
 photonengine.com
 photonengine.io
 gaming-sdk.com
 ryuu.lol
 morrenus.xyz
 erotorrent.ru
-# Discord
 discord.com
 discord.gg
 discordapp.com

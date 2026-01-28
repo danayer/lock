@@ -11,3 +11,5 @@
 @@||discordapp.com^$dnsrewrite,client=az-world
 @@||discordapp.net^$dnsrewrite,client=az-world
 @@||discord.media^$dnsrewrite,client=az-world
+@@||fedoraproject.org^$dnsrewrite,client=az-world
+@@||fedorainfracloud.org^$dnsrewrite,client=az-world

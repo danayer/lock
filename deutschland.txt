@@ -12,3 +12,9 @@ ryuu.lol
 morrenus.xyz
 #XXX
 erotorrent.ru
+#VoIP
+discord.com
+discord.gg
+discordapp.com
+discordapp.net
+discord.media

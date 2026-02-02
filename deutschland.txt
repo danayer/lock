@@ -18,5 +18,3 @@ discord.gg
 discordapp.com
 discordapp.net
 discord.media
-#EpicGames
-epicgames.com

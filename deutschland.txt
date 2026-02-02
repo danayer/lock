@@ -18,14 +18,5 @@ discord.gg
 discordapp.com
 discordapp.net
 discord.media
-#Fortnite
-catalog-public-service-prod06.ol.epicgames.com
-launcher-website-prod07.ol.epicgames.com
-launcherwaitingroom-public-service-prod06.ol.epicgames.com
-account-public-service-prod03.ol.epicgames.com
-launcher-public-service-prod06.ol.epicgames.com
-entitlement-public-service-prod08.ol.epicgames.com
-priceengine-public-service-ecomprod01.ol.epicgames.com
-lightswitch-public-service-prod06.ol.epicgames.com
-eulatracking-public-service-prod06.ol.epicgames.com
-friends-public-service-prod06.ol.epicgames.com
+#EpicGames
+epicgames.com

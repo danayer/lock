@@ -51,3 +51,4 @@ scp.tiktokcdn.com
 tiktok-row.net
 edgekey.net
 akamaiedge.net
+tiktokv.eu

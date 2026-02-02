@@ -47,3 +47,7 @@ byteoversea.com
 ibytedtos.com
 p16-tiktokcdn-com.akamaized.net
 v16-tiktokcdn-com.akamaized.net
+scp.tiktokcdn.com
+tiktok-row.net
+edgekey.net
+akamaiedge.net

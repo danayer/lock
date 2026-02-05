@@ -18,6 +18,3 @@ discord.gg
 discordapp.com
 discordapp.net
 discord.media
-#FortniteTest
-akamai.net
-epicgames.com

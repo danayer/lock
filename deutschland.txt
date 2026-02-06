@@ -4,3 +4,9 @@ discord.gg
 discordapp.com
 discordapp.net
 discord.media
+#FortniteTest
+cloudfront.net
+epicgames.com
+epicgames.dev
+akamaized.net
+xboxlive.com

@@ -10,3 +10,4 @@ epicgames.com
 epicgames.dev
 akamaized.net
 xboxlive.com
+amazonaws.com

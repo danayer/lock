@@ -18,3 +18,15 @@ discord.gg
 discordapp.com
 discordapp.net
 discord.media
+fastly-edge.com
+fastly-terrarium.com
+fastly.io
+fastlylabs.com
+fastlylb.net
+contentful.com
+ctfassets.net
+cdn.tagdeliver.com
+amazon.com
+amazon.co.jp
+byteoversea.com
+ibytedtos.com

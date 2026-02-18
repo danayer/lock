@@ -1,6 +1,2 @@
 #VoIP
-discord.com
-discord.gg
-discordapp.com
-discordapp.net
 discord.media

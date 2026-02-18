@@ -4,5 +4,3 @@ discord.gg
 discordapp.com
 discordapp.net
 discord.media
-#Youtube
-redirector.googlevideo.com

@@ -9,5 +9,5 @@ ryuu.lol
 fluxer.app
 aihorde.net
 stablehorde.net
-mangalib.me
 fastpic.org
+gnome.org

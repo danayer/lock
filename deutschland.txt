@@ -11,3 +11,5 @@ aihorde.net
 stablehorde.net
 fastpic.org
 gnome.org
+manus.im
+copilot.microsoft.com

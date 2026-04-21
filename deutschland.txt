@@ -13,3 +13,4 @@ fastpic.org
 gnome.org
 manus.im
 copilot.microsoft.com
+rockstargames.com

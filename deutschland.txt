@@ -36,3 +36,6 @@ playhearthstone.com
 hearthstone.blizzard.com
 hearthstone.nosdn.127.net
 firesidegatherings.com
+digiseller.com
+digiseller.ru
+digiseller.me

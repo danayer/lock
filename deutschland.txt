@@ -39,3 +39,4 @@ hearthstone.nosdn.127.net
 firesidegatherings.com
 cas-bridge.xethub.hf.co
 lenovo.com
+meet.google.com

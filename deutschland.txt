@@ -9,3 +9,4 @@ discordapp.com
 discord.media
 discordcdn.com
 discord-attachments-uploads-prd.storage.googleapis.com
+aidungeon.com

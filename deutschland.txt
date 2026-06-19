@@ -11,3 +11,4 @@ discordcdn.com
 discord-attachments-uploads-prd.storage.googleapis.com
 aidungeon.com
 latitude-standard-pull-zone-1.b-cdn.net
+noip.com

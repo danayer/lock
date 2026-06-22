@@ -13,3 +13,5 @@ aidungeon.com
 latitude-standard-pull-zone-1.b-cdn.net
 noip.com
 fedoraproject.org
+#GooglePlay
+gvt1.com

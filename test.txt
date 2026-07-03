@@ -22,3 +22,5 @@ tigerlips.org
 animetop.info
 trn.su
 jsdelivr.net
+drive.google.com
+drive.usercontent.google.com

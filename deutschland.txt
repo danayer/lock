@@ -6,3 +6,4 @@ gvt3.com
 googlevideo.com
 #GitHub
 githubusercontent.com
+hf.co

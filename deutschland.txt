@@ -5,3 +5,5 @@ gvt3.com
 #GitHub
 githubusercontent.com
 hf.co
+fedoraproject.org
+fedorainfracloud.org

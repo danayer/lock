@@ -7,3 +7,4 @@ githubusercontent.com
 hf.co
 fedoraproject.org
 fedorainfracloud.org
+packages.microsoft.com

@@ -7,3 +7,4 @@ githubusercontent.com
 hf.co
 packages.microsoft.com
 flathub.org
+keenetic.net
